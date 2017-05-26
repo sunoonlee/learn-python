@@ -1,6 +1,8 @@
 # my config
-_*.md
-*/_*.md
+^*
+^*/*
+*.plist
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
